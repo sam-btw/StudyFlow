@@ -1,5 +1,7 @@
 # StudyFlow
-A responsive study task manager designed to help students organize tasks, deadlines, priorities, and track their academic progress.
+A responsive study task manager built to help students organize tasks, deadlines, priorities, and track their academic progress.
+
+### [Live Demo](https://sam-btw.github.io/StudyFlow/)
 
 ## About the Project
 StudyFlow is a frontend web application built around a simple idea, making academic task management clear and easy to use.
